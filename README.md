@@ -1,4 +1,5 @@
 "# BCN-SoundHub"
 
-iiker te foyo con la poya (Pablo)
+Proyecto personal de una sala de estudio
+Esto es una prueba 
 
