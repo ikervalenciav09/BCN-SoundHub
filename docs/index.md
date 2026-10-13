@@ -1,6 +1,10 @@
 # BCN SoundHub
 
-Benvinguts a la documentació del projecte **BCN SoundHub**.
+<p align="center">
+  <img src="img/Logo%20de%20la%20marca.png" alt="Logo de BCN SoundHub" width="500">
+</p>
+
+Benvinguts a BCN SoundHub, el projecte de reserva d'estudis musicals de Barcelona.
 
 Aquest projecte consisteix en una aplicació web per consultar la disponibilitat i reservar un estudi musical a Barcelona.
 
