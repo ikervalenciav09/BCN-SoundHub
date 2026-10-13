@@ -6,11 +6,13 @@ Aquest projecte ha estat desenvolupat conjuntament per dos alumnes de segon curs
 
   <div style="flex: 1; min-width: 220px; max-width: 320px; text-align: center; padding: 24px; border: 1px solid #8885; border-radius: 16px;">
 
-    <img src="img/Foto%20de%20proyecto%20iker.PNG"
-         alt="Foto d'Iker Valencia"
-         width="150"
-         height="150"
-         style="object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;" />
+    <img
+  src="../img/Foto%20de%20proyecto%20iker.PNG"
+  alt="Foto d'Iker Valencia"
+  width="120"
+  height="100"
+  style="object-fit: cover; border-radius: 10px; display: block; margin: 0 auto;"
+/>
 
     <h3>Iker Valencia</h3>
 
