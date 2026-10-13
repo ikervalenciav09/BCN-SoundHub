@@ -1,21 +1,21 @@
 site_name: Documentació del Projecte
 
 theme:
-name: material
-
+  name: material
   palette:
     - scheme: slate
       primary: indigo
       accent: cyan
-
   font:
     text: Poppins
     code: JetBrains Mono
 
-  plugins:
-    - search
-    - awesome-nav
-    
+plugins:
+  - search
+  - awesome-nav
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Inici: index.md
