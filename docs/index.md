@@ -1,12 +1,6 @@
 # BCN SoundHub
 
-<div style="text-align: center; margin: 15px 0;">
-  <img
-    src="img/Logo%20de%20la%20marca.png"
-    alt="Logo de BCN SoundHub"
-    style="width: 100%; max-width: 280px; border-radius: 18px; display: block; margin: auto;"
-  />
-</div>
+<div style="margin: 15px 0 25px 0;"> <img src="img/Logo%20de%20la%20marca.png" alt="Logo de BCN SoundHub" style="width: 180px; border-radius: 18px; display: block;" /> </div>
 
 
 
