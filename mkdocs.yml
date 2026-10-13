@@ -1,8 +1,7 @@
 site_name: Documentació del Projecte
 
 theme:
-  name: materialtheme:
-  name: material
+name: material
 
   palette:
     - scheme: slate

@@ -1,0 +1,31 @@
+/* Títulos principales */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+/* Título principal */
+.md-typeset h1 {
+  color: #67e8f9;
+  font-size: 2rem;
+}
+
+/* Separación y detalle azul en los subtítulos */
+.md-typeset h2 {
+  border-bottom: 1px solid #334155;
+  padding-bottom: 0.3em;
+  margin-top: 1.8em;
+}
+
+/* Texto en negrita */
+.md-typeset strong {
+  font-weight: 800;
+  color: #f1f5f9;
+}
+
+/* Esquinas redondeadas de las imágenes */
+.md-typeset img {
+  border-radius: 12px;
+}
