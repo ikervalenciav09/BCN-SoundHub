@@ -3,6 +3,11 @@ site_name: Documentació del Projecte
 theme:
   name: material
 
+  plugins:
+    - search
+    - awesome-nav
+    
+
 nav:
   - Inici: index.md
   - Miembros: miembros.md
