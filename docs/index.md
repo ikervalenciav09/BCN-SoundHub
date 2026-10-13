@@ -1,12 +1,13 @@
 # BCN SoundHub
 
-<div style="text-align: center; margin: 25px 0;">
+<div style="text-align: center; margin: 15px 0;">
   <img
     src="img/Logo%20de%20la%20marca.png"
     alt="Logo de BCN SoundHub"
-    style="width: 100%; max-width: 650px; border-radius: 24px; display: block; margin: auto;"
+    style="width: 100%; max-width: 280px; border-radius: 18px; display: block; margin: auto;"
   />
 </div>
+
 
 
 Benvinguts a BCN SoundHub, el projecte de reserva d'estudis musicals de Barcelona.
