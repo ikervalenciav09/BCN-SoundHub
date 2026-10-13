@@ -4,12 +4,7 @@ Aquest projecte ha estat desenvolupat conjuntament per dos alumnes de segon curs
 
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 30px 0;">
 
-  <div style="flex: 1; min-width: 220px; max-width: 320px; text-align: center; padding: 24px; border: 1px solid #8885; border-radius: 16px;">
-    <img src="img/foto%20de%20proyecto%20iker.PNG" alt="Foto d'Iker Valencia" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"/>
-    <h3>Iker Valencia</h3>
-    <p><strong>Funció i aportació</strong></p>
-    <p>Participació en el desenvolupament de l'aplicació web, la documentació i la configuració del projecte.</p>
-  </div>
+  <div style="flex: 1; min-width: 220px; max-width: 320px; text-align: center; padding: 24px; border: 1px solid #8885; border-radius: 16px;"> <img src="img/foto%20de%20proyecto%20iker.PNG" alt="Foto d'Iker Valencia" width="150" height="150" style="object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;" /> <h3>Iker Valencia</h3> <p><strong>Funció i aportació</strong></p> <p>Participació en el desenvolupament de l'aplicació web, la documentació i la configuració del projecte.</p> </div>
 
   <div style="flex: 1; min-width: 220px; max-width: 320px; text-align: center; padding: 24px; border: 1px solid #8885; border-radius: 16px;">
     <div style="width: 150px; height: 150px; margin: 0 auto; border-radius: 50%; background: #8882; display: flex; align-items: center; justify-content: center;">
