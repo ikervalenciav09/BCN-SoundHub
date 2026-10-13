@@ -18,10 +18,10 @@ L'objectiu del projecte és centralitzar les reserves en una aplicació web acce
 
 ## Funcionalitats principals
 
-* Consulta de disponibilitat.
-* Reserva de l'Estudi Principal.
-* Assistent d'intel·ligència artificial que conversa en català i ajuda durant el procés de reserva.
-* Gestió de reserves per al personal autoritzat.
+- Consulta de disponibilitat.
+- Reserva de l'Estudi A.
+- Assistent d'intel·ligència artificial que conversa en català i ajuda durant el procés de reserva.
+- Gestió de reserves per al personal autoritzat.
 
 ## Com es fa una reserva?
 
@@ -41,11 +41,11 @@ Cada reserva té una durada d'una hora i comença a l'hora en punt. No s'admeten
 
 ## Horari de l'estudi
 
-| Dia                 | Horari                    |
-| ------------------- | ------------------------- |
-| Dilluns a divendres | 16:00–22:00               |
-| Dissabte            | 10:00–14:00 i 16:00–21:00 |
-| Diumenge            | Tancat                    |
+| Dia | Horari |
+|---|---|
+| Dilluns a divendres | 16:00–22:00 |
+| Dissabte | 10:00–14:00 i 16:00–21:00 |
+| Diumenge | Tancat |
 
 ## Gestió del personal
 
@@ -71,10 +71,10 @@ Quan estiguin disponibles, s'hi afegiran captures reals de l'aplicació per most
 
 Les captures previstes són:
 
-* Pàgina principal de l'aplicació.
-* Consulta de disponibilitat i formulari de reserva.
-* Assistent de conversa.
-* Zona privada de gestió del personal, si està implementada.
+- Pàgina principal de l'aplicació.
+- Consulta de disponibilitat i formulari de reserva.
+- Assistent de conversa.
+- Zona privada de gestió del personal, si està implementada.
 
 ## Més informació
 
