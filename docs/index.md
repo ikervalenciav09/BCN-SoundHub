@@ -19,7 +19,7 @@ L'objectiu del projecte és centralitzar les reserves en una aplicació web acce
 ## Funcionalitats principals
 
 * Consulta de disponibilitat.
-* Reserva de l'Estudi A.
+* Reserva de l'Estudi Principal.
 * Assistent d'intel·ligència artificial que conversa en català i ajuda durant el procés de reserva.
 * Gestió de reserves per al personal autoritzat.
 
