@@ -24,9 +24,13 @@ Aquest projecte ha estat desenvolupat conjuntament per dos alumnes de segon curs
 
   <div style="flex: 1; min-width: 220px; max-width: 320px; text-align: center; padding: 24px; border: 1px solid #8885; border-radius: 16px;">
 
-    <div style="width: 150px; height: 150px; margin: 0 auto; border-radius: 50%; background: #8882; display: flex; align-items: center; justify-content: center;">
-      <span style="font-size: 42px;">👤</span>
-    </div>
+    <img
+  src="../img/Foto%20Pablo.jpg"
+  alt="Foto de Pablo Gómez"
+  width="120"
+  height="100"
+  style="object-fit: cover; border-radius: 10px; display: block; margin: 0 auto;"
+/>
 
     <h3>Pablo Gómez</h3>
 
