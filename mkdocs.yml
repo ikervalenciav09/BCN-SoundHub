@@ -1,7 +1,17 @@
 site_name: Documentació del Projecte
 
 theme:
+  name: materialtheme:
   name: material
+
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: cyan
+
+  font:
+    text: Poppins
+    code: JetBrains Mono
 
   plugins:
     - search
