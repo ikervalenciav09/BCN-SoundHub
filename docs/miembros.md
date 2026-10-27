@@ -42,4 +42,4 @@ Aquest projecte ha estat desenvolupat conjuntament per dos alumnes de segon curs
 
 </div>
 
-Tots dos participants col·laboren en el desenvolupament de BCN SoundHub com a projecte conjunt de segon curs de SMX.
+Tots dos som els creador i col·laborem en el desenvolupament de BCN SoundHub com a projecte intermodular de SMX2B.
